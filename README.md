@@ -67,3 +67,7 @@ A script that explores web to get the data related to a Celebrity given his name
     Add your API keys to the .env file 
    ```bash
    touch .env
+
+## Usage
+
+Each project is contained within its respective directory. Navigate to the desired project folder and follow the instructions provided above
