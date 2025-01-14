@@ -10,7 +10,6 @@ This repository showcases various applications and experiments utilizing the Lan
   - [ChatMultipleDocs](#chatmultipledocs)
   - [TextSummarization](#textsummarization)
   - [Celebrity.py](#celebritypy)
-  - [prac.ipynb](#pracinotebook)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -36,11 +35,8 @@ A tool that leverages LangChain to provide text summarization capabilities.
 
 ### Celebrity.py
 
-A script that explores celebrity data using LangChain's functionalities.
+A script that explores web to get the data related to a Celebrity given his name and any 5 major events happend around his DOB
 
-### prac.ipynb
-
-A Jupyter Notebook containing various practice exercises and examples related to LangChain.
 
 ## Installation
 
