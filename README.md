@@ -55,3 +55,8 @@ A Jupyter Notebook containing various practice exercises and examples related to
    ```bash
    conda create -p myenv python
    conda activate path/to/myenv
+
+3. **Install the required dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
