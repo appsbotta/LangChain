@@ -5,6 +5,7 @@ This repository showcases various applications and experiments utilizing the Lan
 ## Table of Contents
 
 - [Projects](#projects)
+  - [ATS](#ats)
   - [LLMAPP](#llmapp)
   - [PdfQuery](#pdfquery)
   - [ChatMultipleDocs](#chatmultipledocs)
@@ -16,6 +17,10 @@ This repository showcases various applications and experiments utilizing the Lan
 - [License](#license)
 
 ## Projects
+
+### ATS
+
+A project to check the ATS score based on the job description and lets you know about the resume
 
 ### LLMAPP
 
