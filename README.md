@@ -58,6 +58,7 @@ A script that explores web to get the data related to a Celebrity given his name
    pip install -r requirements.txt
 
 4. **Create a `.env` file in the root of the repository:**
-    Add your API keys to the .env file in the following format:
+    
+    Add your API keys to the .env file 
    ```bash
    touch .env
