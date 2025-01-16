@@ -8,3 +8,5 @@ cassio
 datasets
 PyPDF2
 cassandra-driver
+cython
+cqlsh
