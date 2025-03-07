@@ -7,3 +7,5 @@ PyPDF2
 faiss-cpu
 tiktoken
 huggingface_hub
+pandas
+numpy
