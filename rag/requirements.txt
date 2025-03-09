@@ -1,0 +1,13 @@
+langchain_core
+langchain_community
+langchain_openai
+streamlit
+python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
